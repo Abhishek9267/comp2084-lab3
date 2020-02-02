@@ -73,3 +73,10 @@ C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Deb
 C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.csproj.CopyComplete
 C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.dll
 C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.pdb
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.dll
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.xml
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.Migrations.InitialCreate.resources
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.csproj.GenerateResource.cache
+C:\Users\Abhishek kanojia\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.Migrations.InitialCreate1.resources
